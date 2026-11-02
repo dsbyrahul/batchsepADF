@@ -1,0 +1,15 @@
+{
+	"name": "testDFSep26",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d3a54ab-1778-4ba3-9dc2-253d5571214f",
+		"tenantId": "a5d533e3-5295-42f9-ad6a-69671d385c55"
+	}
+}
