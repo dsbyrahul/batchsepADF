@@ -1,0 +1,15 @@
+{
+	"name": "DFDev2600",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d03d3387-c424-456e-8ac2-611bd1d98111",
+		"tenantId": "a5d533e3-5295-42f9-ad6a-69671d385c55"
+	}
+}
